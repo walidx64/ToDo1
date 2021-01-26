@@ -1,7 +1,6 @@
 ### My Task | ToDO List App
-![](https://github.com/walidrudro/ToDo1/blob/main/MyTask.gif?raw=true)
+![](https://github.com/walidrudro/ToDo1/blob/master/MyTask.gif?raw=true)
 
-API Link: https://openweathermap.org/api
 
 [<img src='https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png' alt='googleplaystore' height='60'>](https://play.google.com/store/apps/details?id=com.walid.todo1)
 
